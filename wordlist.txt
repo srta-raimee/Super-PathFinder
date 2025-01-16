@@ -1,4 +1,6 @@
 robots.txt
+classes
+class
 assets
 mail
 ftp
