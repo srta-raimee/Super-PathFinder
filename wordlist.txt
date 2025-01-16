@@ -1,4 +1,5 @@
-www
+robots.txt
+assets
 mail
 ftp
 test
@@ -9,6 +10,7 @@ blog
 shop
 login
 admin
+adm
 portal
 user
 webmail
